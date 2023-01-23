@@ -1,0 +1,18 @@
+math.ceil()	        Rounds a number up to the nearest integer
+math.cos()	        Returns the cosine of a number
+math.fabs()	        Returns the absolute value of a number
+math.exp()	        value of e=2.71828 
+math.factorial()	Returns the factorial of a number
+math.floor()	        Rounds a number down to the nearest integer
+math.fmod()	        Returns the remainder of x/y
+math.fsum()	        Returns the sum of all items in any iterable (tuples, arrays, lists, etc.)
+math.gcd()	        Returns the greatest common divisor of two integers
+math.isnan()	        Checks whether a value is NaN (not a number) or not
+math.isqrt()	        Rounds a square root number downwards to the nearest integer
+math.pow()       	Returns the value of x to the power of y
+math.prod()	        Returns the product of all the elements in an iterable
+math.sin()	        Returns the sine of a number
+math.sqrt()	        Returns the square root of a number
+math.tan()	        Returns the tangent of a number
+math.trunc()	        Returns the truncated integer parts of a number
+ 
